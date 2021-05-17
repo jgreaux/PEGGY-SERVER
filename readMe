@@ -10,3 +10,8 @@ Initialisation:
 routes:
 http://localhost:3000/ (contenu du dossier "public")
 http://localhost:3000/api/hello (ajout de "?name=henry" possible)
+
+Database:
+A implémenter.
+npm install --dev nedb
+(https://stackabuse.com/nedb-a-lightweight-javascript-database/)
