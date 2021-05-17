@@ -1,0 +1,12 @@
+Environnement:
+- VisualStudioCode
+- Git
+- Node
+
+Initialisation:
+- npm install
+- npm start
+
+routes:
+http://localhost:3000/ (contenu du dossier "public")
+http://localhost:3000/api/hello (ajout de "?name=henry" possible)
